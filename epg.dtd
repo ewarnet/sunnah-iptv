@@ -18,9 +18,4 @@
     <desc lang="en">Short description</desc>
     <desc lang="cy">Mae'r cofnod rhaglen hwn yn arddangos holl nodweddion posibl y DTD</desc>
   </programme>
-  <programme start="20220331180000 +0000" channel="channel-two.tv">
-    <title>Programme Two: The minimum valid programme</title>
-  </programme>
-  <programme>...</programme>
-  ...
 </tv>
