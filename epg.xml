@@ -3,14 +3,14 @@
 
 <tv date="20250406000000 +0700" source-info-name="example" source-info-url="example.com" source-data-url="example.com/a" generator-info-name="Example Generator"
   generator-info-url="https://example.com">
-  <channel id="MedSTV">
+  <channel id="SIP007">
     <display-name lang="en">MedS TV</display-name>
     <display-name lang="fr">MedS TV</display-name>
     <icon src="https://github.com/ewarnet/sunnah-iptv/blob/main/MedSTV.png" width="256" height="256" />
     <url system="example"></url>
     <url system="other_system"></url>
   </channel>
-  <programme start="20250406180000 +0700" stop="20250406210000 +0700" channel="MedS TV" 
+  <programme start="20250406180000 +0700" stop="20250406210000 +0700" channel="SIP001" 
     pdc-start="20250406180000 +0700" vps-start="20250406180000 +0700" showview="12345" videoplus="67890" clumpidx="0/1">
     <title lang="en">Riyadhusshalihin</title>
     <sub-title lang="en">Tujuan Diciptakan Manusia</sub-title>
