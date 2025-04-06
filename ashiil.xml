@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="RodjaTV">
-    <display-name lang="en">Rodja TV</display-name>
-    <icon src="https://github.com/ewarnet/sunnah-iptv/blob/main/MedSTV.png" width="256" height="256"/>
-    <url>https://rodja.tv</url>
+  <channel id="AshiilTV">
+    <display-name lang="en">Ashiil TV</display-name>
+    <icon src="https://github.com/ewarnet/sunnah-iptv/blob/main/ashiiltv.png" width="256" height="256"/>
+    <url>https://ashiil.tv</url>
   </channel>
-  <programme start="20250406200000 +0700" stop="20250406220000 +0700" channel="RodjaTV">
+  <programme start="20250406200000 +0700" stop="20250406220000 +0700" channel="AshiilTV">
     <title lang="en">Sirah</title>
     <sub-title lang="en">Tujuan Diciptakan Manusia</sub-title>
     <desc lang="en">Sirah Terdahulu</desc>
