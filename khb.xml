@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="KHBTV">
+    <display-name lang="en">KHB TV</display-name>
+    <icon src="https://github.com/ewarnet/sunnah-iptv/blob/main/MedSTV.png" width="256" height="256"/>
+    <url>https://rodja.tv</url>
+  </channel>
+  <programme start="20250406200000 +0700" stop="20250406220000 +0700" channel="KHBTV">
+    <title lang="en">Kisah Sahabat:</title>
+    <sub-title lang="en">Salman al-Farisi</sub-title>
+    <desc lang="en">Kisah Sahabat Salman al-Farisi radhiyallahu 'anhu</desc>
+  </programme>
+</tv>
